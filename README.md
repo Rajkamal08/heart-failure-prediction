@@ -75,6 +75,11 @@ The app will open at `http://localhost:8501`
 
 This system is designed as a **clinical decision support tool** and should not replace professional medical judgment. Always consult qualified healthcare providers before making clinical decisions.
 
+## 👥 Contributors
+
+- **Raj Kamal Mehta** - [GitHub](https://github.com/Rajkamal08)
+- **Tanuja Adak** - [GitHub](https://github.com/TanujaAdak)
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
