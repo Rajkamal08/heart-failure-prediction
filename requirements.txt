@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+shap>=0.42.0
+xgboost>=2.0.0
+scikit-learn>=1.2.0
+fpdf2>=2.7.0
+
+# pip install -r requirements.txt
